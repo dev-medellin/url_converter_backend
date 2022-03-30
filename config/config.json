@@ -1,6 +1,6 @@
 {
-  "host": "localhost",
-  "user": "root",
-  "database": "urlconvert",
-  "password": ""
+  "host": "sql309.epizy.com",
+  "user": "epiz_31401421",
+  "database": "epiz_31401421_url_converter",
+  "password": "f61mlDJM3G28e"
 }
